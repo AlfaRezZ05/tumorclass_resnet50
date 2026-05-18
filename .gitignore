@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Dataset, Results & Media (hindari push file besar)
+Training/
+Testing/
+dataset/
+results/
+*.zip
+*.png
+
+# Dokumen & Laporan
+*.docx
+*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
